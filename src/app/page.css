@@ -1,0 +1,38 @@
+.divLogin{
+  background-color: rgba(0,0,0,0.3);
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.titleSoftware{
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+.titlepage{
+  margin-bottom: 15px;
+}
+
+.divInput{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+.inputField{
+  border-radius: 10px;
+  padding: 5px;
+
+}
+.linkForgetPassworld{
+  text-decoration: underline;
+  color: blue;
+  margin-bottom: 15px;
+}
+.custombutton{
+  padding: 5px 20px;
+  border-radius: 10px;
+  font-size: medium;
+}
+
